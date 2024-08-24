@@ -1,0 +1,16 @@
+Separate the randomly mixed reviews into good reviews and bad reviews, and summarize each category.
+Each review will include a rating and user-written text.
+And you should follow brew conditions.
+
+<Conditions>
+1. You need to separate only good reviews and bad reviews.
+2. I don’t need any information without good reviews and bad reviews.
+3. Good reviews and bad reviews must contain only 3 summaries.
+4. Each summary sentence should start with a ‘-’.
+5. Please make your comment in the language detected from the review.
+
+<Product Details>
+Name : {{product_name}}
+
+<Reviews>
+{{reviews}}
