@@ -57,4 +57,21 @@ List any prerequisites for your project.
 # Example
 Node.js >= 20
 npm >= 10.8.2
+gcloud
 ```
+
+## Test Instruction
+
+**glcoud login**
+
+```
+gcloud auth login
+```
+
+**Set up .env.yaml**
+
+> You should convert to "../env.yaml" from "./env.yaml.sample" and set all of the values.
+
+**Run script**
+
+> sh deployShell.sh
