@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Review summary for white pattern
 
 **Elevator Pitch:** Save your time by checking out the summarized reviews!
 
@@ -26,15 +26,6 @@ Additionally, while most users consider reviews important, they cannot go throug
   1.  Extract raw review data from Firestore.
   2.  Send textual to the Gemini API for processing.
   3.  Receive analysis results, including sentiment scores, key phrases, and visual insights.
-
----
-
-## 📸 Screenshots
-
-Include a few screenshots or GIFs of your app in action to visually demonstrate its functionality and user interface.
-
-![Screenshot 1](link-to-image-1.png)
-![Screenshot 2](link-to-image-2.png)
 
 ---
 
